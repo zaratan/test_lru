@@ -1,0 +1,10 @@
+{
+  "name": "testLRU",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@prettier/plugin-ruby": "^1.5.5",
+    "prettier": "^2.2.1"
+  }
+}
